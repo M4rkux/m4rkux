@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Marcus
 
-- 🔭 I’m currently working on frontend with [VueJs](https://vuejs.org/)
-- 🌱 I’m currently learning OCR with [Python](https://www.python.org/) and [Go](https://go.dev/)
-  - All the good study material that I found online is for Python, but I'm trying to replicate it on Go since it's faster and cooler 😎
+- 🔭 I’m currently working with frontend using the framework [VueJs](https://vuejs.org/)
+- 🌱 I’m currently learning:
+  - OCR with [Python](https://www.python.org/)
+  - [Go](https://go.dev/) to build API and whatever else is possible
 - 🐧 I use Arch BTW
 
 <p align="center">
