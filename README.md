@@ -3,10 +3,8 @@
 My name is Marcus
 
 - 🔭 I’m currently working with frontend using the framework [VueJs](https://vuejs.org/)
-- 🌱 I’m currently learning:
-  - OCR with [Python](https://www.python.org/)
-  - [Go](https://go.dev/) to build API and whatever else is possible
-- 🐧 I use Arch BTW
+- 🌱 I’m currently learning [Unreal Engine](https://www.unrealengine.com/) with [C++](https://www.cplusplus.com/)
+- 🐧 I use [Arch](https://archlinux.org/) BTW
 
 <p align="center">
   <img src="https://media4.giphy.com/media/3knKct3fGqxhK/giphy.gif">
