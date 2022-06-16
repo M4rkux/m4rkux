@@ -2,8 +2,8 @@
 
 My name is Marcus
 
-- 🔭 I’m currently working with frontend using the framework [VueJs](https://vuejs.org/)
-- 🌱 I’m currently learning [Unreal Engine](https://www.unrealengine.com/) with [C++](https://www.cplusplus.com/)
+- 🔭 I’m currently working with [Laravel](https://laravel.com/) and [VueJs](https://vuejs.org/)
+- 🌱 I’m currently learning [Electron](https://www.electronjs.org/)
 - 🐧 I use [Arch](https://archlinux.org/) BTW
 
 <p align="center">
