@@ -3,7 +3,7 @@
 My name is Marcus
 
 - 🔭 I’m currently working with:
-  - [TypeScript]([https://nextjs.org/](https://www.typescriptlang.org/))
+  - [TypeScript](https://www.typescriptlang.org/)
 - 🐧 [Pop!_OS](https://pop.system76.com/)
 
 <p align="center">
