@@ -3,9 +3,7 @@
 My name is Marcus
 
 - 🔭 I’m currently working with:
-  - [NextJs](https://nextjs.org/)
-  - [Supabase](https://supabase.com/)
-  - [Vercel](https://vercel.com/)
+  - [TypeScript]([https://nextjs.org/](https://www.typescriptlang.org/))
 - 🐧 [Pop!_OS](https://pop.system76.com/)
 
 <p align="center">
