@@ -4,6 +4,7 @@ My name is Marcus
 
 - 🔭 I’m currently working with:
   - [TypeScript](https://www.typescriptlang.org/)
+  - [Go](https://go.dev/)
 - 🐧 OS: [Arch](https://archlinux.org/)
 
 <p align="center">
