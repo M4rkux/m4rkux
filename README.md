@@ -7,9 +7,9 @@ My name is Marcus
   - [Go](https://go.dev/)
 - 🐧 OS: [CachyOS](https://cachyos.org/)
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/3knKct3fGqxhK/giphy.gif">
-</p>
+Check my game for free on Playstore: https://play.google.com/store/apps/details?id=com.pressgreen.wordseed
+
+<img width="1024" height="500" alt="feature-graphic-en-US" src="https://github.com/user-attachments/assets/dcfe5eaf-5328-4fb7-a9cf-f2e9225bb5d0" />
 
 
 <!--
